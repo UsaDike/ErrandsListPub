@@ -1,3 +1,7 @@
-# I am a pen.
+# 使い方
 
-An d I.
+これから書く。
+
+---
+
+[プライバシーポリシー](./privacy-policy.md)
