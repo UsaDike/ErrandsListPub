@@ -1,1 +1,3 @@
-# ErrandsListPub
+# errands-list-web
+
+お使いリストウェブ。
